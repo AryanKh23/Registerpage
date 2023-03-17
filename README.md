@@ -1,3 +1,4 @@
 # Registerpage
 
-Video uploading algorithm with lost less file compressor maintaining the quality of the video and reducing the file size with the upload progress indicator.
+A registration form maintaining proper validations with a free
+country and pin code API being auto-filled and validated.
